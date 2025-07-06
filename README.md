@@ -51,7 +51,7 @@ I'm a **Software Developer** and **Full Stack Engineer** with professional exper
 
 ### 💬 [Cloud Chat Real-Time Messaging Platform](https://github.com/Sajidrahman-tech/Cloud-Chat-Real-Time-Messaging-Platform)
 
-### 📝 [Cloud-Native Notes App](https://github.com/Sajidrahman-tech/Cloud-Native-Notes-App)
+### 📝 [Cloud-Native Notes App](https://github.com/Sajidrahman-tech/Cloud-Native-Notes-App-)
 
 ### 🛒 [E-Commerce Backend](https://github.com/Sajidrahman-tech/E-COMMERCE-Backend)
 
