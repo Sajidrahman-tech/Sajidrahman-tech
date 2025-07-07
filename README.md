@@ -96,18 +96,7 @@ I'm a **Software Developer** and **Full Stack Engineer** with professional exper
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sajidrahman-tech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajidrahman-tech&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajidrahman-tech&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🤝 Let's Connect
 
